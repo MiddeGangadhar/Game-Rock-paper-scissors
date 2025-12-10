@@ -1,4 +1,4 @@
-Rock–Paper–Scissors Game (Python)
+**Rock–Paper–Scissors Game (Python)**
 
 This is a simple Rock–Paper–Scissors game written in Python.
 The user chooses Rock (0), Paper (1), or Scissors (2), and the computer randomly selects one.
